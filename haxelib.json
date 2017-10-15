@@ -8,7 +8,5 @@
     "releasenote"  : "Add iOS support and update Flurry jar file to 5.1.0 (please note that iOS support doesn't work for hxcpp 3.1.39)",
     "contributors" : ["SergeyMiryanov"],
     "dependencies" : {
-        "hxcpp"        : "",
-        "lime"         : ""
     }
 }
